@@ -1,0 +1,49 @@
+.nav-bar {
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  .nav-link i {
+    margin-right: 5px; 
+    vertical-align: middle; 
+  }
+  
+
+  .nav-bar.fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030;
+  }
+  .nav-link {
+    color: #333;
+    margin-left: 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #d25795;
+  }
+ 
+  .nav-link.active{
+    color: #d25795 !important;
+  }
+  
+  .brand .icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .cart-link {
+    color: #d25795;
+  }
+  
+  .navbar-toggler {
+    border-color: #d25795;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #d25795;
+  }
+  

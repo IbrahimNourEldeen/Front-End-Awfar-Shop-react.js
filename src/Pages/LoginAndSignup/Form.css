@@ -1,0 +1,14 @@
+
+.inputField{
+    border:none;
+    border-bottom: 2px solid black;
+    background-color: transparent !important;
+}
+
+.errorInput {
+    border-color: red !important;
+}
+
+.errorInput::placeholder {
+    color: red ;
+}

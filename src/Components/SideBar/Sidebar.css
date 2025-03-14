@@ -1,0 +1,21 @@
+
+.nav-pills .nav-link.active {
+  background-color: #d2579543 !important;
+  span {
+    color: #d25795 !important;
+  }
+  i {
+    color: #d25795 !important;
+  }
+}
+.nav-pills li:hover {
+  span {
+    color: #d25795 !important;
+  }
+  i {
+    color: #d25795 !important;
+  }
+}
+.mainColor{
+  color: #d25795
+}

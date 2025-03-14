@@ -1,0 +1,22 @@
+
+.card-img-top:hover{
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+  scale: 1.1;
+}
+.card-img-top {
+  object-fit: cover;
+  height: 350px!important; 
+  width: 250px!important; 
+  margin: auto;
+}
+.card-bg{
+  background-color:#f2f2f2
+}
+
+.topics{
+  color: #b83114;
+}
