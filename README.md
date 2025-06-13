@@ -1,49 +1,45 @@
-# My React Project
-
-## Project Preview
-
-# My React Project
+# Awfar shop is a store for selling products online with the feature of delivering orders in addition to other features. There is also an admin dashboard that displays all store data. You can also upload product images, order data, and other features.
 
 ## Project Preview
 
 <p float="left">
-  <img src="./assets/image01.png" width="300" />
-  <img src="./assets/image02.png" width="300" />
+  <img src="./assets/image01.png" width="500" />
+  <img src="./assets/image02.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image03.png" width="300" />
-  <img src="./assets/image04.png" width="300" />
+  <img src="./assets/image03.png" width="500" />
+  <img src="./assets/image04.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image05.png" width="300" />
-  <img src="./assets/image06.png" width="300" />
+  <img src="./assets/image05.png" width="500" />
+  <img src="./assets/image06.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image07.png" width="300" />
-  <img src="./assets/image08.png" width="300" />
+  <img src="./assets/image07.png" width="500" />
+  <img src="./assets/image08.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image09.png" width="300" />
-  <img src="./assets/image10.png" width="300" />
+  <img src="./assets/image09.png" width="500" />
+  <img src="./assets/image10.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image11.png" width="300" />
-  <img src="./assets/image12.png" width="300" />
+  <img src="./assets/image11.png" width="500" />
+  <img src="./assets/image12.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image13.png" width="300" />
-  <img src="./assets/image14.png" width="300" />
+  <img src="./assets/image13.png" width="500" />
+  <img src="./assets/image14.png" width="500" />
 </p>
 
 <p float="left">
-  <img src="./assets/image15.png" width="300" />
-  <img src="./assets/image16.png" width="300" />
+  <img src="./assets/image15.png" width="500" />
+  <img src="./assets/image16.png" width="500" />
 </p>
 
 
