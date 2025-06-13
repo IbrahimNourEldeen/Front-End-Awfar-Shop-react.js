@@ -2,22 +2,50 @@
 
 ## Project Preview
 
-![Screenshot 1](./assets/image01.png)  
-![Screenshot 2](./assets/image02.png)  
-![Screenshot 3](./assets/image03.png)  
-![Screenshot 4](./assets/image04.png)  
-![Screenshot 5](./assets/image05.png)  
-![Screenshot 6](./assets/image06.png)  
-![Screenshot 7](./assets/image07.png)  
-![Screenshot 8](./assets/image08.png)  
-![Screenshot 9](./assets/image09.png)  
-![Screenshot 10](./assets/image10.png)  
-![Screenshot 11](./assets/image11.png)  
-![Screenshot 12](./assets/image12.png)  
-![Screenshot 13](./assets/image13.png)  
-![Screenshot 14](./assets/image14.png)  
-![Screenshot 15](./assets/image15.png)  
-![Screenshot 16](./assets/image16.png)
+# My React Project
+
+## Project Preview
+
+<p float="left">
+  <img src="./assets/image01.png" width="300" />
+  <img src="./assets/image02.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image03.png" width="300" />
+  <img src="./assets/image04.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image05.png" width="300" />
+  <img src="./assets/image06.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image07.png" width="300" />
+  <img src="./assets/image08.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image09.png" width="300" />
+  <img src="./assets/image10.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image11.png" width="300" />
+  <img src="./assets/image12.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image13.png" width="300" />
+  <img src="./assets/image14.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="./assets/image15.png" width="300" />
+  <img src="./assets/image16.png" width="300" />
+</p>
+
 
 
 
